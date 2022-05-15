@@ -1,1 +1,1 @@
-module.exports = 'banana ' + require('./kiwi')
+module.exports = 'banana ' + require('./kiwi');
